@@ -1,6 +1,6 @@
 package com.example.catalogobibliotecario;
 
-public class CatalogoBibliotecario {
+public class Catalogo {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
