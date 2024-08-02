@@ -1,4 +1,4 @@
-package com.example.catalogobibliotecario;
+package com.example.catalogo;
 
 public class Catalogo {
 
